@@ -5,7 +5,7 @@
 ____
 
 ### I`m a junior web-developer!
-- :elephant: I’m currently code on PhP with Laravel 8.
+- :elephant: I’m currently coding on PhP with Laravel 8.
 - 🌱 I’m currently learning PhP, Laravel 8, JS.
 - :wrench: I use OOP and SOLID in development.
 - :chart_with_upwards_trend: Ready to implement Python and C#.
