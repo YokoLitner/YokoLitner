@@ -9,7 +9,7 @@ ____
 - 🌱 I’m currently learning PhP, Laravel, JS, NestJS, ReactJS.
 - :wrench: Design patterns == our everything.
 - :chart_with_upwards_trend: Ready to implement Python and C#.
-- :🔭 Other technologies: ElasticSearch, Git, Docker, Conventional Commits, Semantic Versioning. 
+- :🔭 Other technologies and things: ElasticSearch, Git, Docker, Conventional Commits, Semantic Versioning. 
 
 ____
 
