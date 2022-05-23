@@ -4,11 +4,12 @@
 
 ____
 
-### I`m a junior web-developer!
-- :elephant: I’m currently coding on PhP with Laravel 8.
-- 🌱 I’m currently learning PhP, Laravel 8, JS.
-- :wrench: I use OOP and SOLID in development.
+### I`m a middle web-developer!
+- :elephant: I’m currently coding on PhP,NestJS.
+- 🌱 I’m currently learning PhP, Laravel, JS, NestJS, ReactJS.
+- :wrench: Design patterns == our everything.
 - :chart_with_upwards_trend: Ready to implement Python and C#.
+- :🔭 Other technologies: ElasticSearch, Git, Docker, Conventional Commits, Semantic Versioning. 
 
 ____
 
