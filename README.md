@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/YokoLit" target="_blank">Mark</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h3 align="center">Computer science student in Southern Federal University, Web-developer from Russia 🇷🇺</h3>
 
+____
+
 <h3 align="center">Since February 2022 I have been working at <a href="https://rndx2.com" target="_blank">RnDx2</a></h3>
+
 ____
 
 ### I`m a middle web-developer!
