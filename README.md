@@ -6,7 +6,7 @@ ____
 
 - :elephant: I’m currently coding on PhP(Laravel), Node.js(Nest).
 - :wrench: OOP, SOLID, TCP/IP, HTTP(S) and bla-bla.
-- :🔭 Other technologies: ElasticSearch, Git, Docker, Linux. 
+- :🔭 Other technologies: ElasticSearch, Git, Docker, Linux, SQL. 
 
 ____
 
