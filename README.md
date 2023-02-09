@@ -4,12 +4,9 @@
 
 ____
 
-### I`m a middle web-developer!
-- :elephant: I’m currently coding on PhP,NestJS.
-- 🌱 I’m currently learning PhP, Laravel, JS, NestJS, ReactJS.
-- :wrench: Design patterns == our everything.
-- :chart_with_upwards_trend: Ready to implement Python and C#.
-- :🔭 Other technologies and things: ElasticSearch, Git, Docker, Redis, Conventional Commits, Semantic Versioning. 
+- :elephant: I’m currently coding on PhP(Laravel), Node.js(Nest).
+- :wrench: OOP, SOLID, TCP/IP, HTTP(S) and bla-bla.
+- :🔭 Other technologies: ElasticSearch, Git, Docker, Linux. 
 
 ____
 
@@ -18,18 +15,3 @@ ____
 ____
 
 <h3>Contact me: <a href="https://t.me/YokoLit" target="_blank">Telegram</a></h3>
-
-<!--
-**YokoLitner/YokoLitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently code on PhP with Laravel 8.
-- 🌱 I’m currently learning PhP, Laravel 8, JS.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
