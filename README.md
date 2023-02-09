@@ -4,10 +4,6 @@
 
 ____
 
-<h3 align="center">Since February 2022 I have been working at <a href="https://rndx2.com" target="_blank">RnDx2</a> (<a href="https://gitlab.com/MChalenko" target="_blank">My GitLab</a>)</h3>
-
-____
-
 ### I`m a middle web-developer!
 - :elephant: I’m currently coding on PhP,NestJS.
 - 🌱 I’m currently learning PhP, Laravel, JS, NestJS, ReactJS.
