@@ -7,9 +7,6 @@ ____
 - :elephant: I’m currently coding on PhP(Laravel), Node.js(Nest).
 - :wrench: OOP, SOLID, TCP/IP, HTTP(S) and bla-bla.
 - :🔭 Other technologies: ElasticSearch, Git, Docker, Linux, SQL. 
-
-____
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YokoLitner&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ____
